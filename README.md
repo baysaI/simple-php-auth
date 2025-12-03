@@ -25,7 +25,7 @@ A customized and modernized version of a classic PHP login template. Fully respo
 
 ## 📜 License & Credits
 This project is a modified version of a 2020 template.
-* **Original Author:** [Orjinal yapımcı varsa buraya yaz, yoksa "Unknown"]
-* **Edited by:** Mehmet Baysal (zeonix)
+* **Original Author:** Bharathi Kannan N
+* **Edited by:** Mehmet Baysal (baysal)
 
 Feel free to use it for your own projects!
